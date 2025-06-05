@@ -1,13 +1,5 @@
 🌦️ React Native Weather App! 📱🎉
 
-I'm thrilled to announce the launch of my latest project - a React Native Weather App built entirely with TypeScript! 🚀
-
-![](<https://firebasestorage.googleapis.com/v0/b/react-native-ts-weather-app.appspot.com/o/promo%2Fweather%20app%20(2).png?alt=media&token=0df91aed-23e9-4537-9a33-20acc1b538f4>)
-
-- [Click to watch Video Demo](https://www.youtube.com/watch?v=bNrQbNb6SHE)
-- [Download APK to test](https://drive.google.com/file/d/1wbShuZ0O962Hd3hoQsrJgOvPlPpFpvn9/view?usp=sharing)
-- [Ask me anything](https://topmate.io/subrata/476431/pay)
-
 Using cutting-edge technologies like `React Native`, `Expo Location`, and leveraging the power of `Weather APIs`, I've crafted a user-friendly application that provides accurate weather information at your fingertips. Whether you're planning your day or preparing for your next adventure, this app has got you covered with weather forecasts.
 
 ## Here are some highlights of the app:
@@ -41,13 +33,4 @@ I'm incredibly proud of the hard work and dedication that went into creating thi
 - [Absolute Import](https://reactnative.dev/docs/typescript?package-manager=yarn#using-custom-path-aliases-with-typescript)
 
 ## 👋 Author
-
-- [Subrata Das](https://github.com/subrataindia)
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+- [Sk Alijan](https://github.com/SK-ALIJAN)
